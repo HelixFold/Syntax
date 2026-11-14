@@ -1,0 +1,12 @@
+# Object files and build outputs
+
+# Debug symbols & cache
+*.dSYM/
+cache/
+
+# macOS junk files
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
